@@ -8,8 +8,8 @@ The goal is to try out ideas, experiment with JavaScript and other concepts, and
 
 ### 📁 Folder Structure (if any)
 
-- `VanillaJS/` – JavaScript practice files
-- `...` – More folders or files may be added as I explore
+- `VanillaJS/` – JavaScript practice files.
+- `...` – More folders or files may be added as I explore.
 
 ---
 
